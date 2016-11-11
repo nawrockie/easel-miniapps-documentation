@@ -36,21 +36,21 @@ to those.)
 All 21 miniapps are: 
 1.  esl-afetch     :: retrieve multiple sequence alignment(s) from a file
 2.  esl-alimanip   :: manipulate a multiple sequence alignment
-3.  esl-alimanip   :: manipulate a multiple sequence alignment
-4.  esl-alimap     :: map two alignments to each other
-5.  esl-alimask    :: remove columns from a multiple sequence alignment
-6.  esl-alimerge   :: merge alignments based on their reference (RF) annotation
-7.  esl-alipid     :: calculate pairwise %id for each seq pair in an MSA
-8.  esl-alistat    :: show summary statistics for a multiple sequence alignment file
-9.  esl-cluster    :: clusters tabular data file
-10. esl-compalign  :: compare two multiple sequence alignments
-11. esl-compstruct :: calculate accuracy of RNA secondary structure predictions
+3.  esl-alimap     :: map two alignments to each other
+4.  esl-alimask    :: remove columns from a multiple sequence alignment
+5.  esl-alimerge   :: merge alignments based on their reference (RF) annotation
+6.  esl-alipid     :: calculate pairwise %id for each seq pair in an MSA
+7.  esl-alistat    :: show summary statistics for a multiple sequence alignment file
+8.  esl-cluster    :: clusters tabular data file
+9.  esl-compalign  :: compare two multiple sequence alignments
+10. esl-compstruct :: calculate accuracy of RNA secondary structure predictions
+11. esl-construct  :: describe or create a consensus secondary structure
 12. esl-histplot   :: collate a data histogram, output xmgrace datafile
 13. esl-mask       :: mask sequences in a sequence file
 14. esl-reformat   :: convert between sequence file formats
-15. esl-reformat   :: convert between sequence file formats
-16. esl-selectn    :: select n lines randomly from a file
-17. esl-seqrange   :: determine range of sequences for one of many parallel processes
+15. esl-selectn    :: select n lines randomly from a file
+16. esl-seqrange   :: determine range of sequences for one of many parallel processes
+17. esl-seqstat    :: show simple statistics on a sequence file
 18. esl-sfetch     :: retrieve sequence(s) from a file
 19. esl-shuffle    :: shuffling or generating random sequences
 20. esl-ssdraw     :: draw postscript secondary structure diagrams
